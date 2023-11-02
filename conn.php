@@ -6,7 +6,7 @@
     <title>MyList</title>
 </head>
 <body>
-    <table border="">
+    <table>
         <tr>
             <th>SerialNo</th>
             <th>AdmNo</th>
